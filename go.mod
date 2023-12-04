@@ -1,3 +1,3 @@
-module github.com/ekalinin/awsping
+module github.com/srisco/awsping
 
-go 1.17
+go 1.20

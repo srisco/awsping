@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ekalinin/awsping"
+	"github.com/srisco/awsping"
 )
 
 var (
